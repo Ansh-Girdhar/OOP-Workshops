@@ -1,0 +1,18 @@
+
+/*
+    ==================================================
+    Workshop 02: OOP345ZCC
+    ==================================================
+    Name   : Ansh GirdhAR
+    ID     : 152552204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+I gained knowledge about functors and lambda expressions in this workshop. A class that offers the operator() member function is called a functor.
+An unnamed function is a lambda expression.
+
+When the functionality offered by a functor is more sophisticated than what can be stated in a lambda expression, a functor is often utilised. For instance, a functor might have to keep track of state information or type-convert the arguments given to operator(). When the functionality offered by the lambda is straightforward and can be stated in a single expression, a lambda expression is generally employed.
+
+I had to read information from a file for both the Book and Movie classes, and the most of this reading was the same for both. I could have created another module and used the code from Book and Movie to eliminate the repetition.
+
+

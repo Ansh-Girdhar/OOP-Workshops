@@ -1,0 +1,19 @@
+/*
+    ==================================================
+    Workshop 01: OOP435ZCC
+    ==================================================
+    Name   : Ansh GirdhAR
+    ID     : 152552204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+
+
+
+
+
+
+There were new topics that I learned while I was working on my workshop and had to revise my previous semester work as most of the workshop 1 was based on oop244.
+Part1 didnt take much time and was easy to understand but it was little difficult to do part 2 as it starting giving error and i was having difficulties to use some of the functions and copy assinment opeartor and using it with shallow copy.
+ 
+	

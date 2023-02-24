@@ -1,0 +1,23 @@
+/*
+    ==================================================
+    Workshop 03: OOP435ZCC
+    ==================================================
+    Name   : Ansh GirdhAR
+    ID     : 152552204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+
+
+
+
+
+
+When working with templates, I noticed that they are implemented in a single.h file rather than separated into.cpp and.h files.
+This is because, in order to produce the best possible template code, the compiler sees the template's entire code rather than just its declaration while it is being compiled.Therefore, it is recommended to keep the aspects of design and implementation in the same file.I created the static class variable m_default in the file Queue.h.
+
+
+The reason why I intialized the m_default object outside of the class is because the m_default object is actually a static object
+and due to this it cannot be intialized inside the class, because in that case It would have to be initialized each 
+time when a new instance of the class is to be created and this will lead to compilation errors.
+

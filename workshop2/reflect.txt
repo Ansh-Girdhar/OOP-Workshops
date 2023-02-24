@@ -1,0 +1,15 @@
+/*
+    ==================================================
+    Workshop 02: OOP435ZCC
+    ==================================================
+    Name   : Ansh GirdhAR
+    ID     : 152552204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+
+
+Part 1 of the workshop was not complicated as it didn’t contain new concepts to work with.
+Part 2 of the workshop was hard for me as I spent so much time doing that. I learned a new function called chrono which was extremely helpful for this workshop as it helped me complete my Timer.h file. Other than that, I used copy constructor, destructor and move constructor.
+There were so many memory leaks in part2 which took so much time to solve. In this workshop for the first time. 
+
