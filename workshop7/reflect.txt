@@ -1,0 +1,18 @@
+
+/*
+    Name   : Ansh Girdhar
+    ID     : 15255204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+
+In this workshop I have learned a lot of things about the standard libraries and the algorithms. I always wanted to learn algoriths as it is asked in many interview questions. 
+I have learned how to copy the data from the file and place it into a sequential containers. I have used a library called numeric to accumulate the data values from the file.
+
+I have also used sort function from the library to sort the data which is being retrieved from the file. I had some difficulties in maing this workshop as there were very new libraries that i did not know before this workshop. I had to study all the algorithms in order to complete the workshop. I have always used loops in the previous workshops as it was standard but in this workshop i had not to use the loops which was a challenge for me. 
+
+STL algoriths are effecient as it takes less time to complete the required task. these algorithms are future-proof as we can replace them if we want in the future but loops are so concentrated which is hard to change after. It also reduce the complexity of code in my opinion and it makes the code easy to understand. 
+
+I have used for_each, sort, transform and accumulate in this workshop. I think every STL functions have a different task and i have used all the function in the rigght place according to the functionality they all have.  
+
+I can use try and catch exception handling to handle the errors in the function that sorts the collection of crimes. I can check to see if the field is valid and if it is not i will throw an error which the compiler with catch as will define what the compiler should do in that case. 

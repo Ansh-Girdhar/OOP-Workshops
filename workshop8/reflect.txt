@@ -1,0 +1,14 @@
+
+/*
+    Name   : Ansh Girdhar
+    ID     : 15255204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+
+In this workshop I have learned a lot of things about the smart pointers. I did not know about these before as i have studied only the concept of pointers in IPC144 but in C++ there is a concept of smart pointers which i think was hard for me. This was a totally new concept about the pointers and they have changed by perspective about the pointers as it is very vast. I have also made the program in  quadratic complexity which i think was not too hard for me.
+
+The smart pointers are really smart in my opinion as it automatically deallocates the memory. So that i do not have to worry to delete the memory. Because in the conventional pointers i always had to allocate the memory and then deallocate the memory and sometimes when i forgot to deallocate i get errors on valgrind which is very annoying but with this spectacular change i do not need to worry about the memory leaks. When the pointer in the programme exits the scope, it deallocates the object's memory.
+
+In C++, raw pointers point directly at the data. They necessitate manual memory allocation and freeing procedures (via new and delete ). These generally shouldn't be utilised with contemporary C++. They result in memory and ownership-related issues and defects.    
+

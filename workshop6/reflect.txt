@@ -1,0 +1,14 @@
+
+/*
+    ==================================================
+    Workshop 06: OOP345ZCC
+    ==================================================
+    Name   : Ansh GirdhAR
+    ID     : 152552204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+In this workshop, we learned about various STL containers such as vectors and lists. We learned about exception handling last week and used it a lot in this workshop. Whenever I got a error, I used a try and catch block to handle it.std::invalid_argument exception was used to handle errors when a user provided an incorrect value for his details about the vehicle.
+1.. Dynamically allocated memory in vector must be freed because This is because we are using a pointer to memory address in dynamically allocated memory. Memory leaks if you don't free the memory. This is because the memory is no longer used. but still held in memory. Eventually the memory will fill up and the program will crash.
+2.. You can detect the cause of the problem by catching the errors . After catching the exception, the loadData() function can display the error message stored in the exception object. Another way to identify the cause of the problem is to look at the return value of the createInstance() function. If the return value is nullptr, the record represents an unknown vehicle type. If the return value is not nullptr, the record contains invalid data. 
+3.. I think you can't use std::list and std::vector instead because Vehicle is an abstract class, and you don't create objects abstract class vehicle You cannot create a list or vector of objects.

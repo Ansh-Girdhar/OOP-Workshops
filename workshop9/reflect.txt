@@ -1,0 +1,26 @@
+
+/*
+    Name   : Ansh Girdhar
+    ID     : 15255204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+
+Calling the bound function generally results in the execution of the function it wraps, which is also called the target function. The bound function will store the parameters passed — which include the value of this and the first few arguments — as its internal state. These values are stored in advance, instead of being passed at call time.
+
+Improved performance and concurrency
+For certain applications, performance and concurrency can be improved by using multithreading and multicontexting together. In other applications, performance can be unaffected or even degraded by using multithreading and multicontexting together. How performance is affected depends on your application.
+
+
+Simplified coding of remote procedure calls and conversations
+In some applications it is easier to code different remote procedure calls and conversations in separate threads than to manage them from the same thread.
+
+
+Simultaneous access to multiple applications
+Your BEA Tuxedo clients can be connected to more than one application at a time.
+
+
+Reduced number of required servers
+Because one server can dispatch multiple service threads, the number of servers to start for your application is reduced. This capability for multiple dispatched threads is especially useful for conversational servers, which otherwise must be dedicated to one client for the entire duration of a conversation.
+
+
